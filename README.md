@@ -8,7 +8,7 @@
   <a href="https://leetcode.com/Nikhil_15/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt=" Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/Nikhilk10012">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a><br>
   <a href="https://komarev.com/ghpvc/?username=Nikhil10012">
