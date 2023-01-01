@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nikhil-kumar-184a96224/">
@@ -15,9 +15,8 @@
     <img src="https://komarev.com/ghpvc/?username=Nikhil10012&style=flat-square&color=blue" alt=" Profile view"/>
   </a>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
-</div>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nikhil10012" alt="Nikhil10012" /></a> </p>
 
 ### 👨‍💻: About Me :
 I am a Full Stack web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -43,6 +42,7 @@ I am a Full Stack web Developer <img src="https://media.giphy.com/media/WUlplcMp
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nikhil10012&theme=dark&background=000000)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil10012&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikhil10012&show_icons=true&locale=en&theme=tokyonight" alt="Nikhil10012" /></p>
 ---
 
 ### :writing_hand: Blog Posts :
