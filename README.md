@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/nikhil-kumar-184a96224/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="nikhil.saini1012002@gmail.com">
+  <a href="mailto:nikhil.saini1012002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt=" Badge"/>
   </a>
   <a href="https://twitter.com/Nikhilk10012">
