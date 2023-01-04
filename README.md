@@ -31,7 +31,7 @@ I am a Full Stack web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### SKILLS 
 <div>
-  <img src="https://img.shields.io/badge/Java-07DF1E.svg?style=for-the-badge&logo=Java&logoColor=black" title="Java" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-07DF1E.svg?style=for-the-badge&logo=Java&logoColor=black" title="Java" alt="JAVA" />
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"  title="CSS3" alt="CSS" />&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
